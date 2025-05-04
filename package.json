@@ -1,0 +1,13 @@
+{
+  "name": "imersao_backend",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "Emanuel Marinho",
+  "license": "ISC",
+  "description": "Gerenciador de projetos academicos"
+}
