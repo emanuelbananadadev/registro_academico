@@ -40,6 +40,9 @@ O servidor será iniciado em http://localhost:3333.
 
 ### 📁 Usuários (Register)
 
+#### `GET /register`
+Retorna todos os registros cadastradas.
+
 #### `POST /register`
 Cadastra um novo professor.
 
